@@ -11,7 +11,7 @@
     'images': [
         'images/dynamic_report.png',
     ],
-    'price': 90,
+    'price': 69,
     'currency': 'EUR',
     'auto_install': False,
     'web_preload': True,
